@@ -72,3 +72,18 @@ To run the Anime Recommendation Chatbot App:
 
 ## Demo
 
+Here are some short demo videos showcasing the project (Note: These are GIFs with a low frame rate.) 
+
+![2025-03-0314-44-21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/62299963-f47d-4f8a-ac33-53be30e43c7c)
+
+![2025-03-0314-45-14-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/adb36a40-54c9-411f-aff2-e67aab47e4ec)
+
+![2025-03-0314-46-22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/85e1b702-a542-4aa3-8b42-2ae56e05e78b)
+
+![2025-03-0314-48-02-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3cd3ed1d-995c-43de-986a-a65b04a15559)
+
+
+
+
+
+
