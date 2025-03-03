@@ -1,6 +1,6 @@
 # Anime Recommendation Chatbot App
 
-This project is a showcase application demonstrating an anime recommendation chatbot built using collaborative filtering, content-based filtering, and hybrid approaches. It leverages models built with libraries like `scikit-surprise` and `scikit-learn`, and integrates with ChatGPT, LangChain, and Streamlit for an interactive user experience. The primary goal is to provide anime recommendations based on user preferences and anime similarities, delivered through a conversational chatbot interface.
+This project is a showcase application demonstrating an anime recommendation chatbot built using collaborative filtering, content-based filtering, and hybrid approaches. It leverages models built with libraries like `scikit-surprise` and `scikit-learn`, and integrates with `ChatGPT`, `LangChain`, and `Streamlit` for an interactive user experience. The primary goal is to provide anime recommendations based on user preferences and anime similarities, delivered through a conversational chatbot interface.
 
 ## Project Overview
 
